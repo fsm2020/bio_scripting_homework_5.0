@@ -1,0 +1,40 @@
+The date and time currently is: Tue Feb 25 13:22:29 CST 2020
+The users that have logged-in are: uahlpe   pts/1        2020-02-20 06:36 (user-69-73-22-16.knology.net)
+aubjrk   pts/2        2020-02-25 09:33 (131.204.254.85)
+aubmxa   pts/4        2020-01-12 13:35
+aubmxa   pts/5        2020-01-12 13:35
+aubkfj   pts/7        2020-02-25 07:59 (node-42-101.chem.auburn.edu)
+aubmxa   pts/8        2020-02-18 11:51 (131.204.254.87)
+usacls07 pts/9        2020-02-25 09:17 (wan-215-227.usouthal.edu)
+aubmxa   pts/10       2020-02-17 09:52 (131.204.254.87)
+ualprj   pts/11       2020-02-25 10:28 (130.160.124.4)
+asninstall pts/12       2020-02-10 13:37 (129.66.33.254)
+uahapm   pts/13       2020-02-25 09:47 (146.229.236.198)
+ualzrl   pts/14       2020-02-21 18:16 (130.160.125.1)
+aubcls56 pts/15       2020-02-25 13:08 (131.204.254.85)
+uahjas   pts/17       2020-02-25 11:26 (core-fw-outside.network.uah.edu)
+usacls05 pts/21       2020-02-19 09:06 (wan-217-189.usouthal.edu)
+ualtxs   pts/22       2020-02-04 13:21 (130.160.124.4)
+usacls04 pts/24       2020-02-12 11:17 (wan-215-227.usouthal.edu)
+ualmab   pts/29       2020-02-24 10:34 (130.160.124.4)
+The system uptime is:  13:22:29 up 48 days, 20:03, 18 users,  load average: 0.88, 1.00, 0.78
+The date and time currently is: Tue Feb 25 15:04:42 CST 2020
+The users that have logged-in are: uahlpe   pts/1        2020-02-20 06:36 (user-69-73-22-16.knology.net)
+aubjrk   pts/2        2020-02-25 09:33 (131.204.254.85)
+aubmxa   pts/4        2020-01-12 13:35
+aubmxa   pts/5        2020-01-12 13:35
+asndcy   pts/7        2020-02-25 14:39 (129.66.33.254)
+aubmxa   pts/8        2020-02-18 11:51 (131.204.254.87)
+usacls07 pts/9        2020-02-25 09:17 (wan-215-227.usouthal.edu)
+aubmxa   pts/10       2020-02-17 09:52 (131.204.254.87)
+ualprj   pts/11       2020-02-25 10:28 (130.160.124.4)
+uahapm   pts/13       2020-02-25 09:47 (146.229.236.198)
+ualzrl   pts/14       2020-02-21 18:16 (130.160.125.1)
+aubcls56 pts/15       2020-02-25 13:08 (131.204.254.85)
+ualljq   pts/16       2020-02-25 13:45 (130.160.125.1)
+uahcls02 pts/17       2020-02-25 13:51 (blackhawk.ece.uah.edu)
+usacls05 pts/21       2020-02-19 09:06 (wan-217-189.usouthal.edu)
+ualtxs   pts/22       2020-02-04 13:21 (130.160.124.4)
+usacls04 pts/24       2020-02-12 11:17 (wan-215-227.usouthal.edu)
+ualmab   pts/29       2020-02-24 10:34 (130.160.124.4)
+The system uptime is:  15:04:42 up 48 days, 21:45, 18 users,  load average: 0.01, 0.10, 0.22
